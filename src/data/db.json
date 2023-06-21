@@ -2,18 +2,18 @@
     "products": [
       {
         "id": 1,
-        "name": "Caixa de Ferramentas",
-        "price": 65.5
+        "titulo": "DISQUE 190!",
+        "frase": "O feminicídio mata"
       },
       {
         "id": 2,
-        "name": "Chave de Fenda",
-        "price": 30
+        "titulo": "NÃO SE CALE!",
+        "frase": "A sua vida importa"
       },
       {
         "id": 3,
-        "name": "Furadeira",
-        "price": 75.5
+        "titulo": "VEJA OS DADOS!",
+        "frase": "O crime contra a mulher está em crescimento"
       }
     ]
   }
