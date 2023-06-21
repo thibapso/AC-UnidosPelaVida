@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Caixa de Ferramentas",
+        "price": 65.5
+      },
+      {
+        "id": 2,
+        "name": "Chave de Fenda",
+        "price": 30
+      },
+      {
+        "id": 3,
+        "name": "Furadeira",
+        "price": 75.5
+      }
+    ]
+  }

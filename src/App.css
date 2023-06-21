@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-expand{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #FC3C72;
+}
+
+html ::-webkit-scrollbar {
+  width: 10px;
+}
+html ::-webkit-scrollbar-thumb {
+  border-radius: 30px;
+  background: #e159ee;
+}
+html ::-webkit-scrollbar-track {
+  background: #212529;
+}
+
+html ::selection {
+  color: #ededed;
+  background-color: #bc48c7;
+}
+
+.nav-link:hover{
+  color: #FC3C72 !important;
+}
+
+.navbar-expand::backdrop{
+  color: #FC3C72 !important;
+}
+
+button{
+  background-color: #FC3C72 !important;
+  border: #FC3C72 !important;
+}
+
+.navbar-expand {
+  flex-wrap: nowrap;
+  justify-content: center;
+  padding: 80px;
+}
+
+.dicas {
+  background-color: #35244b;
+  border-radius: 25px;
+}
+
+.info {
+  background-color: #a66fee;
+  border-radius: 25px;
+}
+
+.h2-cabecalho {
+  display: grid;
+  padding: 2rem 2rem 2rem 0rem;
+  color: #ededed;
+}
+
+.container {
+  justify-content: center;
+}
+
+.c-item{
+  height: 50px;
+}
+
+.c-img{
+  object-fit: cover;
+  max-height: 770px;
+  max-width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.descubra {
+  max-width: 700px;
+  align-items: center;
+  justify-content: center;
+}
+
+.taxas {
+  align-items: center !important; 
+  justify-content: center !important;
+}
+
+.home {
+  margin-top: 50px;
+}
+
+.h1-home {
+  font-weight: 900;
+}
+
+.p-home {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 85px;
+}
+
+.descubra-titulo{
+  text-align: center;
+  font-weight: 900;
+}
+
+.descubra-texto{
+  text-align: center;
+  font-weight: 600;
+}
+
+.card {
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px 20px 40px 20px;
+  border-left: 0;
+}
+
+.card-group {
+  margin-bottom: 30px;
+}
+
+.mb-3{
+  padding: 1.5rem;
+  margin: 10px;
+}
+
+/* O react que fez esse CSS
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.read-the-docs {
+  color: #888;
+}*/
